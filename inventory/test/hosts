@@ -1,0 +1,6 @@
+[rke]
+rke-master-01.zeemshomelab.com
+rke-master-02.zeemshomelab.com
+rke-master-03.zeemshomelab.com
+rke-worker-01.zeemshomelab.com
+rke-worker-02.zeemshomelab.com
